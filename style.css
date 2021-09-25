@@ -1,0 +1,20 @@
+.height-vh{
+    height:100vh
+}
+.bg-gray-light{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.text-red{
+    color:hotpink
+}
+
+.width-100{
+    width:100
+}
+.column-center{
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
